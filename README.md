@@ -29,7 +29,7 @@ The window slides over entire data for a day , the pattern which has the set of 
 (For installation, use pip)
 
 1. python==3.9.15 or higher
-2. fastpip==1.6.1
-3. numpy==1.24.2
-4. pandas==1.4.2
-5. scipy==1.8.0
+2. fastpip==1.6.1 (pip install python-fastpip)
+3. numpy==1.24.2 (pip install numpy)
+4. pandas==1.4.2 (pip install pandas)
+5. scipy==1.8.0 (pip install scipy)
