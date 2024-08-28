@@ -3,6 +3,8 @@
 ## Team Name - Team Tensor 
 ## Topic - Stock Market Analysis (Track - 3)
 
+![Certificate](https://github.com/Amaan165/MiNeD-Hackathon/blob/main/Certificate.png)
+
 The Given Program helps to identify the following patterns:
 1. Head and Shoulder 
 2. Reverse Head and Shoulder
